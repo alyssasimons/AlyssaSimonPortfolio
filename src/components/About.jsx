@@ -1,5 +1,5 @@
 import React from "react"
-import me from "../assets/me.jpg"
+import me from "../assets/me.png"
 import resume from "../assets/AlyssaSimonResume.pdf"
 
 export default function About() {
