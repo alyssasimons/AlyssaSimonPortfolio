@@ -3,15 +3,15 @@ import logo from "/assets/logo.png"
 
 export default function Header() {
     return (
-        <div className="header">
+        <header className="header">
             <div className="logo">
                 <img src={logo} alt="Portfolio logo containing the letters A and S beside each other"/>
             </div>
-            <div className="navlinks">
+            <nav className="navlinks">
                 <a href="#main">Home</a>
                 <a href="#about">About</a>
                 <a href="#projects">Projects</a>
-            </div>
-        </div>
+            </nav>
+        </header>
     )
 }
