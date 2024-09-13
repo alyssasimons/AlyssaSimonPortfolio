@@ -17,3 +17,10 @@ export default function App() {
     </div>
   )
 }
+
+/* TODO:
+- make about me more interactice (hover over picture)
+- modify tech skills section(?)
+- change cards in projects
+- add footer
+*/
