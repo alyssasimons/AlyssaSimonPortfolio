@@ -11,8 +11,8 @@ export default function About() {
                     <p>Hello! 👋🏻</p>
                     <p>
                     I'm a recent Computer Science and Information Systems graduate from New Jersey City University.
-                    Based in the NYC Metropolitan area, I am seeking opportunities to learn, enhance, and develop new skills, specifically in web development!
-                    With my current skills, I intend to contribute efficiency, versatility, and new creative ideas to help build intuitive and functional websites!
+                    Based in the NYC Metropolitan area, I'm seeking opportunities to learn, enhance, and develop new skills, specifically in web development.
+                    With my current skills, I intend to contribute efficiency, versatility, and new creative ideas to help build intuitive and functional websites.
                     </p>
                     <p> I'm passionate about technology and creating art, therefore web development has become an outlet for me to merge these two interests!
                         I love to visually see my creations come to life✨</p>
