@@ -19,9 +19,8 @@ export default function App() {
 }
 
 /* TODO:
-- change font perhaps
+- change logo(?)
 - make about me more interactice (hover over picture)
 - modify tech skills section(?)
 - change cards in projects
-- add footer
 */
