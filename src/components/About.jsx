@@ -10,12 +10,13 @@ export default function About() {
                 <div className="about-p">
                     <p>Hello! 👋🏻</p>
                     <p>
-                    I'm a recent Computer Science and Information Systems graduate from New Jersey City University.
-                    Based in the NYC Metropolitan area, I'm seeking opportunities to learn, enhance, and develop new skills, specifically in web development.
-                    With my current skills, I intend to contribute efficiency, versatility, and new creative ideas to help build intuitive and functional websites.
+                    I'm a recent Computer Science and Information Systems graduate from New Jersey City University, aspiring to become a software developer specializing in web development. 
+                    Based in the NYC Metropolitan area, I'm seeking opportunities to enhance and develop new skills in the tech industry.
+                    With my current skills, I intend to contribute efficiency, versatility, and new creative ideas to help build engaging, intuitive, and scalable applications.
                     </p>
-                    <p> I'm passionate about technology and creating art, therefore web development has become an outlet for me to merge these two interests!
-                        I love to visually see my creations come to life✨</p>
+                    <p> I'm passionate about technology and creating art, therefore web development has become an outlet for me to merge these two interests. 
+                        It allows me to blend my technical skills and creativity by coding visually appealing user interfaces, all while delivering seamless and engaging user experiences.
+                        I love to visually see my creations come to life, while making them both functional and beautiful ✨</p>
                     <br/>
                     <p><a href={resume} target="_blank">View my resume</a></p>
                 </div>
