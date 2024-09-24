@@ -9,7 +9,7 @@ export default function Projects(props) {
             <p>{props.item.languages}</p>
             <div className="projectlinks">
                 <a href={props.item.github} target="_blank"><i className="fa-brands fa-github"></i></a>
-                {props.item.demo === true && <a href={props.item.link} target="_blank"><i className="fa-solid fa-rocket"></i></a>}
+                {props.item.demo.deployed === true && <a href={props.item.demo.link} target="_blank"><i className="fa-solid fa-rocket"></i></a>}
             </div>
         </div>
     )
