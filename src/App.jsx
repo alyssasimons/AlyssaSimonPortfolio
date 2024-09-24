@@ -36,8 +36,7 @@ export default function App() {
 }
 
 /* TODO:
-- change logo(?)
-- make about me more interactice (hover over picture)
+- make 'about me' more interactive (hover over picture)
 - modify tech skills section(?)
-- change cards in projects
+- change cards in projects(?)
 */
