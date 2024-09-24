@@ -17,6 +17,8 @@ export default function App() {
         description={i.description}
         languages={i.languages}
         github={i.github}
+        demo={i.demo.deployed}
+        link={i.demo.link}
     />
 )
 
