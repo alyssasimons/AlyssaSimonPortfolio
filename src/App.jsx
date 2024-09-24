@@ -9,16 +9,11 @@ import './App.css'
 
 export default function App() {
 
-  const project = projectData.map((i) =>
+  const project = projectData.map((item) =>
     <Projects 
-        key={i.id}
-        img={i.img}
-        title={i.title}
-        description={i.description}
-        languages={i.languages}
-        github={i.github}
-        demo={i.demo.deployed}
-        link={i.demo.link}
+        key={item.id}
+        /* pass entire object into a prop to simplify */
+        item={item}
     />
 )
 
