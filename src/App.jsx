@@ -11,6 +11,7 @@ export default function App() {
 
   const project = projectData.map((i) =>
     <Projects 
+        key={i.id}
         img={i.img}
         title={i.title}
         description={i.description}
