@@ -1,6 +1,6 @@
 import React from "react"
 import me from "../assets/me.png"
-import resume from "../assets/AlyssaSimonResume.pdf"
+import resume from "../assets/ASResume.pdf"
 
 export default function About() {
     return (
