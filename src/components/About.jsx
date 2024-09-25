@@ -15,8 +15,7 @@ export default function About() {
                     With my current skills, I intend to contribute efficiency, versatility, and new creative ideas to help build engaging, intuitive, and scalable applications.
                     </p>
                     <p> I'm passionate about technology and creating art, therefore web development has become an outlet for me to merge these two interests. 
-                        It allows me to blend my technical skills and creativity by coding visually appealing user interfaces, all while delivering seamless and engaging user experiences.
-                        I love to visually see my creations come to life, while making them both functional and beautiful ✨</p>
+                        I love to visually see my code come to life ✨</p>
                     <br/>
                     <p><a href={resume} target="_blank">View my resume</a></p>
                 </div>
