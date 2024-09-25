@@ -36,4 +36,5 @@ export default function App() {
 - make 'about me' more interactive (hover over picture)
 - modify tech skills section(?)
 - change cards in projects(?)
+- create hamburger menu for mobile
 */
