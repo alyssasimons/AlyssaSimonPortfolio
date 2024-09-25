@@ -12,8 +12,7 @@ export default function App() {
   const project = projectData.map((item) =>
     <Projects 
         key={item.id}
-        /* pass entire object into a prop to simplify */
-        item={item}
+        {...item} /* spread syntax creates/passes each individual prop */
     />
 )
 
