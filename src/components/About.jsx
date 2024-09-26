@@ -11,11 +11,13 @@ export default function About() {
                     <p>Hello! 👋🏻</p>
                     <p>
                     I'm a recent Computer Science and Information Systems graduate from New Jersey City University, aspiring to become a software developer specializing in web development. 
-                    Based in the NYC Metropolitan area, I'm seeking opportunities to enhance and develop new skills in the tech industry.
-                    With my current skills, I intend to contribute efficiency, versatility, and new creative ideas to help build engaging, intuitive, and scalable applications.
+                    I'm passionate about technology and creating art, therefore web development has become an outlet for me to merge these two interests. 
+                    {/*I love to visually see my code come to life ✨*/}
                     </p>
-                    <p> I'm passionate about technology and creating art, therefore web development has become an outlet for me to merge these two interests. 
-                        I love to visually see my code come to life ✨</p>
+                    <br />
+                    <p> 
+                    Based in the NYC Metropolitan area, I'm seeking opportunities to enhance and develop new skills in the tech industry.
+                    With my current skills, I intend to contribute efficiency, versatility, and new creative ideas to help build engaging, intuitive, and scalable applications. </p>
                     <br/>
                     <p><a href={resume} target="_blank">View my resume</a></p>
                 </div>
